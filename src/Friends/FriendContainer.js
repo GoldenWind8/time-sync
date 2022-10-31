@@ -11,7 +11,7 @@ export default function FriendContainer() {
         <>
             <div className="flex-container">
                 <h1>Friends</h1>
-                <FriendComponent name = "Bonke Smith", onClick = {onEventFriendClicked()/>
+                <FriendComponent name = "Bonke Smith"/>
             </div>
         </>
     );
